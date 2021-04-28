@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "qpyu66"
-  avatar           : "/assets/images/profile.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/profile.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Small Asteroid Blog."
   location         : "Seoul"
   email            :
   links:
