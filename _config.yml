@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en_US"
+locale                   : "ko"
 title                    : "Small Asteroid Blog"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
@@ -274,6 +274,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: true
