@@ -10,7 +10,7 @@ main:
     url: /tags/
   - title: "Pages"
     url: /page-archive/
-    - title: "External Link"
+  - title: "External Link"
     url: https://google.com
   
   # - title: "About"
