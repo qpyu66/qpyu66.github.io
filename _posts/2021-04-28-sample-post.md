@@ -5,10 +5,10 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 modified: 2021-04-28
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+# image:
+#   feature: sample-image-5.jpg
+#   credit: WeGraphics
+#   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <section id="table-of-contents" class="toc">
