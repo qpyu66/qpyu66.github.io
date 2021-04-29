@@ -89,8 +89,8 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
+  name             : qpyu66 # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/images/profile.jpg"
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
   location         : "Buffalo, NY"
   links:

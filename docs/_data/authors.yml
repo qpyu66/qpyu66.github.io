@@ -1,13 +1,13 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+qpyu66:
+  name        : "qpyu66"
+  bio         : "study hard"
+  avatar      : "/images/profile.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "qpyu66@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://thewhip.com"
@@ -22,7 +22,7 @@ Cornelius Fiddlebone:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
+      url: "qpyu66@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rhymeswithsackit"
